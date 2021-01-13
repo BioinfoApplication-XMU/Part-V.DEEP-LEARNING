@@ -29,7 +29,7 @@ ChengLi_genomics_analysis_14_Deep_learning 2021.1(QQ群下载)
 
 案例数据：建议结合自己的课题，寻找科研文献，重复里面的深度学习应用实践codes
 
-哲阳：单细胞聚类方向
+哲阳：DAISM-DNN
 
 佳静：cell-cell interaction(图神经网络)
 
